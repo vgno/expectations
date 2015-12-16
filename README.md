@@ -8,11 +8,11 @@ We expect all our software engineers to know and follow these guidelines.
 ## Table of Contents
 
   - [Architecture](architecture.md)
-  - [Documentation](documentation.md)
   - [Automation](automation.md)
-  - [Workflow](workflow.md)
-  - [Security](security.md)
+  - [Documentation](documentation.md)
   - [Monitoring](monitoring.md)
+  - [Security](security.md)
+  - [Workflow](workflow.md)
 
 # [[Expectations/Minimum Requirements]]
 
