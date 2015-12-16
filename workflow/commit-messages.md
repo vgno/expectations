@@ -6,7 +6,8 @@ This document describes how commit messages should be written, formatted, and wh
 
 ## Example Commit Message
 
-```Capitalized, short (50 chars or less) summary
+```markdown
+Capitalized, short (50 chars or less) summary
 
 More detailed explanatory text, if necessary.  Wrap it to about 72
 characters or so.  In some contexts, the first line is treated as the
@@ -31,7 +32,8 @@ Further paragraphs come after blank lines.
 Close T123
 Fix T123
 Resolve T123
-Reference T321```
+Reference T321
+```
 
 # Formatting Rules
 
