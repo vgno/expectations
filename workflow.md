@@ -12,7 +12,7 @@ If you start using a language we do not have a Coding Standard for, propose one.
 
 ## C. Write Good Commit Messages
 
-Read and follow [[/w/code_standard/commits/ | Commit Message Standards ]] document.
+Read and follow (Commit Message Standards)[workflow/commit-messages.md] document.
 
 ## D. Have a clean branch that is always deployable
 
