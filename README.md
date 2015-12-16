@@ -25,3 +25,8 @@ applications must adhere to. These are **NOT** optional.
   - [Automate Regression Testing](automation.md#automate-regression-testing)
   - [Automate Code Metrics](automation.md#automate-code-metrics)
   - [Use Continuous Integration](automation.md#use-continuous-integration)
+
+## Contribution
+
+If you see expectations here you disagree with, or believe we should have, send
+a Pull Request to this repository!
