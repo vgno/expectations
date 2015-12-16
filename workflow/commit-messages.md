@@ -1,8 +1,10 @@
 # Commit Message Standards
 
-This document describes how commit messages should be written, formatted, and what they should contain.
+This document describes how commit messages should be written, formatted, and
+what they should contain.
 
-(IMPORTANT) It should **by the 50 character summary alone** be possible to understand what code the commit affects.
+(IMPORTANT) It should **by the 50 character summary alone** be possible to
+understand what code the commit affects.
 
 ## Example Commit Message
 
@@ -45,18 +47,22 @@ Reference T321
 # Content Rules
 
 All commits MUST have:
-  - A Subject Line which clearly and shortly describes what's being changed in the commit.
+  - A Subject Line which clearly and shortly describes what's being changed in
+  the commit.
 
 All commits SHOULD have (when necessary):
-  - A Body describing what, how and why the change is being done if this is not clearly summarized in the Subject Line.
+  - A Body describing what, how and why the change is being done if this is not
+  clearly summarized in the Subject Line.
 
 If the commit is relevant to a issue, the issue should be referred as well.
 
 ## Subject Line
 
-Subjects should be written in [[ http://en.wikipedia.org/wiki/Imperative_mood | imperative mood ]] which means "spoken or written as if giving a command or instruction".
+Subjects should be written in [imperative mood](http://en.wikipedia.org/wiki/Imperative_mood)
+which means "spoken or written as if giving a command or instruction".
 
-A properly formed git commit subject line should always be able to complete the following sentence:
+A properly formed git commit subject line should always be able to complete the
+following sentence:
 
 > If applied, this commit will **your subject line here**
 
@@ -77,6 +83,7 @@ IMPORTANT: Notice how this doesn't work for the other non-imperative forms:
 
 The commit body should also be written in the imperative form.
 
-  - Include information about why the change is being done (who/what caused the change to be done).
+  - Include information about why the change is being done (who/what caused the
+  change to be done).
   - Include any background information that will be useful.
   - Add references to relevant issues and commits [with the GitHub Reference Notation](https://help.github.com/articles/writing-on-github/#references)

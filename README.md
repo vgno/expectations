@@ -14,7 +14,19 @@ We expect all our software engineers to know and follow these guidelines.
   - [Security](security.md)
   - [Workflow](workflow.md)
 
-# [[Expectations/Minimum Requirements]]
+## Minimum Requirements
 
-The Minimum Requirements are a subset of the expectations that are not optional,
-they must be heeded.
+These expectations that are to be considered as absolute requirements that all
+applications must adhere to. These are **NOT** optional.
+
+### [Documentation](documentation.md)
+
+  - [Write a README.md](documentation.md#write-a-readmemd)
+
+### [Automation](automation.md)
+
+  - [Automate Building](automation/building.md)
+  - [Automate Deployment](automation.md#automate-deployment)
+  - [Automate Regression Testing](automation.md#automate-regression-testing)
+  - [Automate Code Metrics](automation.md#automate-code-metrics)
+  - [Use Continuous Integration](automation.md#use-continuous-integration)
