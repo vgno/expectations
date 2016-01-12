@@ -9,44 +9,46 @@ All repositories MUST have README.md in the root. This file should contain infor
 
 ## Example README.md
 
-  lang=text, name=README.md
+```markdown
 
-  # Example Project
+# Example Project
 
-  **Short** description of the Example Project.
+**Short** description of the Example Project.
 
-  ## Documentation
+## Documentation
 
-  Include any references to documentation related to the project. Add links
-  to Wikis, Google Docs, and/or any other resource.
+Include any references to documentation related to the project. Add links
+to Wikis, Google Docs, and/or any other resource.
 
-  ## How to Build
+## How to Build
 
-  This must be all the steps necessary to get the application up and running
-  from a fresh checkout.
+This must be all the steps necessary to get the application up and running
+from a fresh checkout.
 
-  It should be automated with either Rake, Ant, Gulp, Grunt, Make, Npm,
-  Composer or similiar.
+It should be automated with either Rake, Ant, Gulp, Grunt, Make, Npm,
+Composer or similiar.
 
-  ``` sh
-  make install
-  ```
+    ```sh
+    make install
+    ```
 
-  ## How to Test
+## How to Test
 
-  Running the testsuite should be automated.
+Running the testsuite should be automated.
 
-  ``` sh
-  make test
-  ```
+    ```sh
+    make test
+    ```
 
-  ## How to Deploy
+## How to Deploy
 
-  A good idea is to also include how to list all the available deploy targets.
+A good idea is to also include how to list all the available deploy targets.
 
-  If the application has no automated deployment, write all the steps required
-  to do it manually.
+If the application has no automated deployment, write all the steps required
+to do it manually.
 
-  ``` sh
-  make deploy TARGET=production
-  ```
+    ```sh
+    make deploy TARGET=production
+    ```
+
+```
